@@ -8,7 +8,7 @@ import io
 from PIL import Image, ImageDraw
 
 st.set_page_config(
-    page_title="MMR KPA (GAJI)",
+    page_title="PERBAH",
     page_icon="TDM.png",
     layout="centered",
     initial_sidebar_state="expanded"
