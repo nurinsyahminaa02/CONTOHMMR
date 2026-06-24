@@ -20,7 +20,7 @@ if "host_logged_in" not in st.session_state:
 st.markdown("""
 <style>
    .stTextInput {
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .stMarkdown h1, .stMarkdown h2 {
