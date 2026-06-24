@@ -77,7 +77,7 @@ ATTENDANCE_FILE = "attendance_records.csv"
 LOGO_UGAT = "Logo-UGAT.png"
 CENTER_IMAGE = "GAMBAR BARU 3.png"   # <-- change this if your new image has another filename
 
-DEFAULT_HOST_PASSWORD = "salman"
+DEFAULT_HOST_PASSWORD = "stm"
 
 required_cols = ["BIL", "NOTEN", "NAMA", "MENU", "MEJA"]
 
