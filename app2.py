@@ -10,7 +10,7 @@ from PIL import Image, ImageDraw
 st.set_page_config(
     page_title="PERBAH",
     page_icon="TDM.png",
-    layout="centered",
+    layout="mindle",
     initial_sidebar_state="expanded"
 )
 
