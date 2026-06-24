@@ -53,7 +53,7 @@ st.markdown("""
 
     .center-caption {
         text-align: center;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
         color: #555;
     }
 
