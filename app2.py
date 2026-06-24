@@ -560,9 +560,9 @@ if img_base64:
             font-weight: bold;
             font-size: 22px;
         ">
-            Majlis Makan Malam
-            Rejimental Penghargaan
-            Brigedier Jeneral Dato' Zamzuri bin Harun
+            Perintah Bahagian
+            Dua
+            Askar Laskar
         </h2>
     </div>
     """, unsafe_allow_html=True)
@@ -585,9 +585,9 @@ else:
             font-weight: bold;
             font-size: 22px;
         ">
-            Majlis Makan Malam
-            Rejimental Penghargaan
-            Brigedier Jeneral Dato' Zamzuri bin Harun
+            Perintah Bahagian
+            Dua
+            Askar Laskar
         </h2>
     </div>
     """, unsafe_allow_html=True)
