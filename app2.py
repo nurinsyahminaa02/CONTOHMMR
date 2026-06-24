@@ -555,7 +555,7 @@ if img_base64:
         <img src="data:image/png;base64,{img_base64}" width="60">
         <h2 style="
             margin: 0;
-            color: #3aa63a;
+            color: #f0e51d;
             font-family: 'Arial', sans-serif;
             font-weight: bold;
             font-size: 22px;
